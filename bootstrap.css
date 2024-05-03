@@ -1,0 +1,29 @@
+.row{
+	justify-content: space-evenly;
+
+}
+
+/*.footer{
+	border: 2px solid;
+	height: 60vh;
+	margin-top: 20px;
+}*/
+.col{
+	margin-top: 20px;
+}
+/*.col li,a{
+	list-style-type: none;
+	text-decoration: none;
+}*/
+
+/*.footerUl li{
+
+	display: inline;
+}*/
+
+.footer{
+	background: #b1e5ef;
+	margin-top: 20px;
+	color: gray;
+	
+}
